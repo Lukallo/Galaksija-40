@@ -14,7 +14,7 @@ To start, you will need a desk, as large as possible, because sooner or later, y
 Lighting must be perfect, ... with a lamp which can be moved in all directions.
 An extension lead with a few sockets is also necessary, as you will soon find out that you're missing just one socket, and then another...
 
-![](images/tools.webp)
+![](images/soldering_iron.webp)
 
 The soldering iron, is of course the most important tool.
 While not necessary, it can be handy to have a soldering iron, with a separate station for controlling the temperature.
@@ -36,7 +36,7 @@ It's impossible to do a good job with a greasy and corroded tip, even if you've 
 
 
 
-
+![](images/tools.webp)
 
 
 If you can overcome the desire to work quickly,
