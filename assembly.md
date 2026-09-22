@@ -70,4 +70,4 @@ You might think that the order in which you solder the components doesn't matter
 The visibility of each stage of work will be best, if you at first solder the components which are lowest: 
 the resistors and the diodes (D1-D4, leave D5 till later as it's bigger).
 
-![](/images/schematics/L11_2048.webp)
+![](images/L11_2048.webp)
