@@ -74,4 +74,24 @@ You might think that the order in which you solder the components doesn't matter
 The visibility of each stage of work will be best, if you at first solder the components which are lowest: 
 the resistors and the diodes (D1-D4, leave D5 till later as it's bigger).
 
+When you cut the excess wires after soldering, you'll see that everything is in it's place, and that none of the resistors are "hanging" by their wires.
+
 ![](images/resistors_done.webp)
+
+Now you can solder the integrated circuits and IC sockets, which are currently empty, then the capacitors with 5mm width, which are a bit taller, and finally the connectors and vertical button (for a hard-break).
+Now would also be a good time to program and place the EPROMs in their sockets.
+
+### Connecting and Basic Configuration
+
+### Keyboard
+
+A mechanical keyboard with standard dimensions proved itself to be a good choice for the original Galaksija computer, so there wasn't a reason to change that practice now.
+In the meanwhile, Cherry created a good standard for mechanical keyboard switches
+
+![](images/keycaps.webp)
+
+56 switches are needed for the Galaksija, but you should buy at least 60, and keep the extras as spares.
+
+### Mask for the keyboard
+### Case
+### Power
