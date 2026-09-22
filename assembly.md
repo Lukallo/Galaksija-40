@@ -42,6 +42,8 @@ at each soldered joint, wait at least one extra second, where you don't move any
 Don't worry about damaging the components by holding the iron a bit extra, electronic components are much more resistant to heat than you might think.
 The Galaksija has exactly 700 solder joints, so holding your iron extra will cost you a bit more than 10 minutes, however it will vastly improve the quality.
 
+![](images/soldering_mistakes.webp)
+
 The most common mistakes made when soldering, are the following:
 <ol type="A">
   <li>Not enough solder. This connection is very weak, but fortunately it's easy to notice and fix.</li>
@@ -70,4 +72,4 @@ You might think that the order in which you solder the components doesn't matter
 The visibility of each stage of work will be best, if you at first solder the components which are lowest: 
 the resistors and the diodes (D1-D4, leave D5 till later as it's bigger).
 
-![](images/L11_2048.webp)
+![](images/resistors_done.webp)
