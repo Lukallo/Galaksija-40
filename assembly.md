@@ -71,6 +71,8 @@ If you don't have much experience with soldering, the most challenging part will
 But don't worry! 
 It's good if you already have experience, but patience and paying careful attention will help much more.
 
+![](images/smd.webp)
+
 ### Order of Soldering Components 
 
 You might think that the order in which you solder the components doesn't matter, but you can save yourself a lot of trouble, if you organize your work properly.
@@ -83,6 +85,10 @@ When you cut the excess wires after soldering, you'll see that everything is in 
 
 Now you can solder the integrated circuits and IC sockets, which are currently empty, then the capacitors with 5mm width, which are a bit taller, and finally the connectors and vertical button (for a hard-break).
 Now would also be a good time to program and place the EPROMs in their sockets.
+
+![](images/eeproms_placed.webp)
+
+![](images/eeproms_done.webp)
 
 ## Connecting and Basic Configuration
 
