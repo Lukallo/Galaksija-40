@@ -63,6 +63,8 @@ The most common mistakes made when soldering, are the following:
 </ol>
 </ol>
 
+![](images/joints.webp)
+
 ### Soldering SMD Components
 
 If you don't have much experience with soldering, the most challenging part will be the small EEPROM in an SMD package.
