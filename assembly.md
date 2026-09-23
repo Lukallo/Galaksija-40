@@ -121,6 +121,10 @@ In the meanwhile, Cherry created a good standard for mechanical keyboard switche
 ![](images/keycaps.webp)
 
 56 switches are needed for the Galaksija, but you should buy at least 60, and keep the extras as spares.
+The actual switches (this does not apply to the keycaps) come in 8 different colours.
+Actually, those are only the colours of the central ..., which can't be seen after you put the keycaps on, but they serve the purpose of differentiating between different switch weights.
+For example, red and brown are the softest (45g) and the most quiet (the first is completely silent), while white and clear are the hardest (80g) and noisiest.
+Blue and green are popular with gamers, as they have a moderate weight and a hard "click", while black are the same weight, but without a click, so they're good for professionals in offices with many people.
 
 ### Mask for the keyboard
 ### Case
