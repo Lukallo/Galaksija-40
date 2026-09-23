@@ -34,10 +34,7 @@ For soldering the Galaksija, a wire around 0.5mm thick will be fine.
 The most important detail, in all of the tools, is the quality of the soldering iron's tip.
 It's impossible to do a good job with a greasy and corroded tip, even if you've bought the best, most expensive tools.
 
-
-
 ![](images/tools.webp)
-
 
 If you can overcome the desire to work quickly,
 at each soldered joint, wait at least one extra second, where you don't move anything, just hold the iron on the joint you're soldering
@@ -91,6 +88,30 @@ Now would also be a good time to program and place the EPROMs in their sockets.
 ![](images/eeproms_done.webp)
 
 ## Connecting and Basic Configuration
+
+It's simple to ... the Galaksija. Before all else, you need a monitor. Any modern TFT monitor or television will suit, which will be connected easily if it has a composite video input, which you can recognise by the cinch connector, like the one shown below:
+
+![](images/cinch.webp)
+
+If you don't have a monitor with a composite video input, you can use a monitor with a HDMI input (which all monitors have nowadays) paired with a video converter to HDMI, which will be easily found in the Serbian market, under a name which looks like AV to HDMI adapter and isn't too expensive.
+Before buying, pay attention to the label, these adapters usually convert in one direction, so you would be making a mistake if you buy a HDMI to AV adapter.
+
+![](images/adapter.webp)
+
+While the Galaksija will work with any modern monitor, it's 32 symbols in a row and big letters, look a bit unusual on a screen 32" and bigger.
+That's why if you can choose, buy a monitor 8, 9 or 10" in size, with a screen ratio of 4:3 as opposed to the usual ratio of 16:9.
+Such monitors are usually sold for CCTV monitoring.
+
+![](images/led.webp)
+
+The Galaskija will work as soon as you plug it in, which is indicated by the LED on the left side of the board, 
+and the message "READY" will immediately show up on the screen
+
+![](images/buttons.webp)
+
+So, if everything is fine, the message will show on the screen after turning on.
+
+![](images/ready.webp)
 
 ### Keyboard
 
