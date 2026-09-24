@@ -82,6 +82,10 @@ When the heat transfers from the pin to the solder, the pin will be soldered, no
 
 ![](images/smd_vs_th.webp)
 
+If you don't have any flux for soldering, the one already inside the solder wire will be enough.
+
+There also exists an alternative method for soldering SMD components, using a special paste which holds miniature, barely visible balls of solder in flux
+
 ### Order of Soldering Components 
 
 You might think that the order in which you solder the components doesn't matter, but you can save yourself a lot of trouble, if you organize your work properly.
