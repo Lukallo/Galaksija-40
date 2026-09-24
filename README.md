@@ -2,6 +2,8 @@
 A guide on how to build the 40th anniversary edition Galaksija computer
 
 ## History
+The Galaksija is a computer initially designed in 1983, by Voja Antonić in Belgrade, Yugoslavia. 
+It was inspired by other popular computers at the time, such as the ZX Spectrum and Commodore 64.
 
 
 ## Useful Links
