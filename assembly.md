@@ -46,8 +46,10 @@ The Galaksija has exactly 700 solder joints, so holding your iron extra will cos
 The most common mistakes made when soldering, are the following:
 <ol type="A">
   <li>Not enough solder. This connection is very weak, but fortunately it's easy to notice and fix.</li>
-  <li>Too much solder and not enough heating. This is the worst joint you can make, and it is knows as a "cold joint".
-      The internal forces from cooling will probably </li>
+  <li>
+      Too much solder and not enough heating. This is the worst joint you can make, and it is knows as a "cold joint".
+      The internal forces from cooling will probably
+  </li>
   <li>Third item</li>
   <li>
       Too much solder. You'll need a bit of experience to be able to gauge how much solder to use for each joint.
@@ -55,7 +57,10 @@ The most common mistakes made when soldering, are the following:
   </li>
   <li>5</li>
   <li>A short circuit between two adjacent connections. This is a common mistake, so after soldering you should carefully inspect your board.</li>
-  <li>7</li>
+  <li>
+      A missed spot during soldering. 
+      Whether it's because of hastiness or poor concentration, this is a mistake which even the most experienced professionals make.
+  </li>
   <li>There's no mistake here. The connection is soldered correctly.</li>
 </ol>
 </ol>
@@ -69,6 +74,13 @@ But don't worry!
 It's good if you already have experience, but patience and paying careful attention will help much more.
 
 ![](images/smd.webp)
+
+It's not hard to solder the SMD chip, especially if you have a soldering iron with a fine and clean tip.
+First of all, a thin layer of solder needs to be applied to two diagonally opposite pads on the PCB for chip U19.
+Then, you position the chip (making sure it's correctly oriented), and press the soldering iron on the pins where solder is already on the pad.
+When the heat transfers from the pin to the solder, the pin will be soldered, not very securely, but enough to keep the chip in place.
+
+![](images/smd_vs_th.webp)
 
 ### Order of Soldering Components 
 
