@@ -34,6 +34,18 @@ For soldering the Galaksija, a wire around 0.5mm thick will be fine.
 The most important detail, in all of the tools, is the quality of the soldering iron's tip.
 It's impossible to do a good job with a greasy and corroded tip, even if you've bought the best, most expensive tools.
 
+In the past, a natural resin called rosin was used just as successfully, but synthetic flux is far more versatile.
+It's true that every solder wire already contains a certain amount of flux, which you can easily see in the core of the wire, but for some jobs, especially soldering SMD (surface-mount device) components, extra flux is needed.
+
+Along with these "cosmetics", it's also useful to have a special compound for reconditioning your soldering iron's tip, sold under the name "Tip Tinner", but it's harder to find in Serbia.
+This substance, which is actually a mix of a special solid flux and microscopic grains of solder, can extend the tip's lifespan and prepare it well before you start work.
+
+A few other tools will be of use, so you ought to have them at hand.
+Small side cutters, a few different screwdrivers, a magnifying glass for inspecting fine details, a small pair of tweezers and a desoldering pump for removing solder.
+
+The pump has a plunger with a spring that compresses, and when it's released by pressing the trigger, it sucks up all the solder from the solder joint (once you've melted it with the iron).
+This simple tool is a standard part of every professional's toolbox, as it's handier to use than any complicated and expensive desoldering station.
+
 ![](images/tools.webp)
 
 If you can overcome the desire to work quickly,
