@@ -59,7 +59,7 @@ The most common mistakes made when soldering, are the following:
 <ol type="A">
   <li>Not enough solder. This connection is very weak, but fortunately it's easy to notice and fix.</li>
   <li>
-      Too much solder and not enough heating. This is the worst joint you can make, and it is knows as a "cold joint".
+      Too much solder and not enough heating. This is the worst joint you can make, and it is known as a "cold joint".
       The internal forces from cooling will probably
   </li>
   <li>Third item</li>
@@ -130,20 +130,20 @@ It's simple to launch the Galaksija. Before all else, you need a monitor. Any mo
 
 ![](images/cinch.webp)
 
-If you don't have a monitor with a composite video input, you can use a monitor with a HDMI input (which all monitors have nowadays) paired with a video converter to HDMI, which will be easily found in the Serbian market, under a name which looks like AV to HDMI adapter and isn't too expensive.
-Before buying, pay attention to the label, these adapters usually convert in one direction, so you would be making a mistake if you buy a HDMI to AV adapter.
+If you don't have a monitor with a composite video input, you can use a monitor with an HDMI input (which all monitors have nowadays) paired with a video converter to HDMI, which will be easily found in the Serbian market, under a name which looks like AV to HDMI adapter and isn't too expensive.
+Before buying, pay attention to the label, these adapters usually convert in one direction, so you would be making a mistake if you buy an HDMI to AV adapter.
 Apart from that, keep in mind that this device is active, that is, it needs power, which is normally provided with a USB charger.
-You will also need an RCA cable to carry the video from the Galaksija to the adapter, as well as a HDMI cable for the connection between the adapter and monitor.
+You will also need an RCA cable to carry the video from the Galaksija to the adapter, as well as an HDMI cable for the connection between the adapter and monitor.
 
 ![](images/adapter.webp)
 
-While the Galaksija will work with any modern monitor, it's 32 symbols per line and capital letters look a bit unusual on a screen 32" and bigger.
+While the Galaksija will work with any modern monitor, its 32 symbols per line and capital letters look a bit unusual on a screen 32" and bigger.
 That's why if you can choose, buy a monitor 8, 9 or 10" in size, with a screen ratio of 4:3 as opposed to the usual ratio of 16:9.
 Such monitors are usually sold for CCTV monitoring.
 
 ![](images/led.webp)
 
-The Galaskija will work as soon as you plug it in, which is indicated by the LED on the left side of the board, 
+The Galaksija will work as soon as you plug it in, which is indicated by the LED on the left side of the board, 
 and the message "READY" will immediately show up on the screen.
 
 ![](images/buttons.webp)
@@ -155,7 +155,7 @@ So, if everything is fine, the message will show on the screen after turning on.
 ### Keyboard
 
 A mechanical keyboard with standard dimensions proved itself to be a good choice for the original Galaksija computer, so there wasn't a reason to change that practice now.
-In the meanwhile, Cherry created a good standard for mechanical keyboard switches
+In the meanwhile, Cherry created a good standard for mechanical keyboard switches, so it was easy to settle on the hole and pad positions for the PCB.
 
 ![](images/keycaps.webp)
 
