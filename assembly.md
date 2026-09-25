@@ -84,13 +84,23 @@ When the heat transfers from the pin to the solder, the pin will be soldered, no
 
 If you don't have any flux for soldering, the one already inside the solder wire will be enough.
 
+A few things here are very important, so we'll repeat them.
+The soldering will be successful, if your solder wire is not thick.
+For soldering all of the components on Galaksija, it would be best to have two types of solder wire, around 0.4mm and around 0.6mm, but one wire of 0.5mm will be a good alternative.
+However, the most important detail is the quality of the soldering iron's tip.
+All modern soldering irons have swap-able tips, so it might be worthwhile to buy at least one new tip.
+Straight away after turning the iron on, you should put solder on the tip, as otherwise, a dry tip can oxidize and become unusable in only a few minutes.
+
 There also exists an alternative method for soldering SMD components, using a special paste which holds miniature, barely visible balls of solder in flux
 
-### Order of Soldering Components 
+### Order of Soldering Components
+
+![](images/order.webp)
 
 You might think that the order in which you solder the components doesn't matter, but you can save yourself a lot of trouble, if you organize your work properly.
 The visibility of each stage of work will be best, if you at first solder the components which are lowest: 
 the resistors and the diodes (D1-D4, leave D5 till later as it's bigger).
+When you flip the board so as to solder the components, it'll be clear why you didn't rush to place the larger components as well: the resistors and diodes, which are the smallest and lowest components, won't fall out, but they'll be pressed against the table.
 
 When you cut the excess wires after soldering, you'll see that everything is in it's place, and that none of the resistors are "hanging" by their wires.
 
@@ -105,12 +115,14 @@ Now would also be a good time to program and place the EPROMs in their sockets.
 
 ## Connecting and Basic Configuration
 
-It's simple to ... the Galaksija. Before all else, you need a monitor. Any modern TFT monitor or television will suit, which will be connected easily if it has a composite video input, which you can recognise by the cinch connector, like the one shown below:
+It's simple to launch the Galaksija. Before all else, you need a monitor. Any modern TFT monitor or television will suit, which will be connected easily if it has a composite video input, which you can recognise by the RCA connector, like the one shown below:
 
 ![](images/cinch.webp)
 
 If you don't have a monitor with a composite video input, you can use a monitor with a HDMI input (which all monitors have nowadays) paired with a video converter to HDMI, which will be easily found in the Serbian market, under a name which looks like AV to HDMI adapter and isn't too expensive.
 Before buying, pay attention to the label, these adapters usually convert in one direction, so you would be making a mistake if you buy a HDMI to AV adapter.
+Apart from that, keep in mind that this device is active, that is, it needs power, which is normally provided with a USB charger.
+You will also need an RCA cable to carry the video from the Galaksija to the adapter, as well as a HDMI cable for the connection between the adapter and monitor.
 
 ![](images/adapter.webp)
 
@@ -121,7 +133,7 @@ Such monitors are usually sold for CCTV monitoring.
 ![](images/led.webp)
 
 The Galaskija will work as soon as you plug it in, which is indicated by the LED on the left side of the board, 
-and the message "READY" will immediately show up on the screen
+and the message "READY" will immediately show up on the screen.
 
 ![](images/buttons.webp)
 
