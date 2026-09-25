@@ -109,7 +109,7 @@ When you cut the excess wires after soldering, you'll see that everything is in 
 Now you can solder the integrated circuits and IC sockets, which are currently empty, then the capacitors with 5mm width, which are a bit taller, and finally the connectors and vertical button (for a hard-break).
 Now would also be a good time to program and place the EPROMs in their sockets.
 
-![](images/eeproms_placed.webp)
+![](images/sockets_done.webp)
 
 ![](images/eeproms_done.webp)
 
