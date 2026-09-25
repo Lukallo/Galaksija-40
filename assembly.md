@@ -3,6 +3,9 @@ This is a translation of the original Serbian language instructions for assembli
 
 The original can be found [here](https://racunari.com/galaksija/uputstvo-za-sklapanje/lemljenje/)
 
+The translation follows the original as closely as possible.
+However a few details which only work in Serbian, such as colloquial terms given in quotes and some wordplay, have been left out or adapted.
+
 ## Soldering
 In electronics, soldering is a simple and routine task which can be mastered in a short time. 
 It's all a matter of practice, however many try to mystify soldering, and to make it seem more complicated than it is.
