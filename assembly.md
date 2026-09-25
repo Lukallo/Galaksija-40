@@ -14,6 +14,8 @@ To start, you will need a desk, preferably as large as possible, because sooner 
 Lighting must be perfect, and a lamp which can be moved in all directions is a must, so that its position can be adjusted as needed.
 An extension lead with a few sockets is also necessary, as you will soon find out that you're missing just one socket, and then another...
 
+### Soldering iron
+
 ![](images/soldering_iron.webp)
 
 The soldering iron, is of course the most important tool.
@@ -21,6 +23,8 @@ While not necessary, it can be handy to have a soldering iron, with a separate s
 A holder which will hold your soldering iron securely while you're not using it, is also necessary.
 You can improvise a holder with a piece of sheet metal, or even a piece of wood with two crossed nails in it.
 Any solution will be better than a soldering iron sitting at the edge of your table, waiting to hurt or damage everything which touches it, or on which it falls.
+
+### Solder wire
 
 Soldering wire is the next important item.
 You can choose whether you want to use lead free solder, or regular solder with lead.
@@ -31,17 +35,27 @@ Special extractors for fumes exist, but it's easy to improvise a small fan, for 
 When buying soldering wire, pay attention to it's thickness.
 For soldering the Galaksija, a wire around 0.5mm thick will be fine.
 
+### Soldering tip
+
 The most important detail, in all of the tools, is the quality of the soldering iron's tip.
 It's impossible to do a good job with a greasy and corroded tip, even if you've bought the best, most expensive tools.
 Luckily, all manufacturers of soldering irons also sell spare tips, which should be changed frequently.
 It's good to know that when heating a new soldering iron and tip, the tip should be "tinned" as soon as possible, ideally as soon as the iron is hot enough to melt solder.
 If you miss this step, the tip will oxidise very quickly, but just one drop of solder applied at the right moment, can save the tip.
 
+### Flux
+
+Alongside quality solder wire, a bit of flux, a substance which cleans solder pads, ... and equalises the surface tension of the melted solder.
+Here (in Serbia), it's sold under the name "solder paste" or "paste for soldering".
+Avoid old fluxes in big tubes, they are only useful for soldering gutters.
+
 In the past, a natural resin called rosin was used just as successfully, but synthetic flux is far more versatile.
 It's true that every solder wire already contains a certain amount of flux, which you can easily see in the core of the wire, but for some jobs, especially soldering SMD (surface-mount device) components, extra flux is needed.
 
 Along with these "cosmetics", it's also useful to have a special compound for reconditioning your soldering iron's tip, sold under the name "Tip Tinner", but it's harder to find in Serbia.
 This substance, which is actually a mix of a special solid flux and microscopic grains of solder, can extend the tip's lifespan and prepare it well before you start work.
+
+### Other tools
 
 A few other tools will be of use, so you ought to have them at hand.
 Small side cutters, a few different screwdrivers, a magnifying glass for inspecting fine details, a small pair of tweezers and a desoldering pump for removing solder.
@@ -51,10 +65,14 @@ This simple tool is a standard part of every professional's toolbox, as it's han
 
 ![](images/tools.webp)
 
+### Soldering technique
+
 If you can overcome the desire to work quickly,
 at each soldered joint, wait at least one extra second, where you don't move anything, just hold the iron on the joint you're soldering.
 Don't worry about damaging the components by holding the iron a bit extra, electronic components are much more resistant to heat than you might think.
 The Galaksija has exactly 700 solder joints, so holding your iron extra will cost you a bit more than 10 minutes, however it will vastly improve the quality.
+
+### Common soldering mistakes
 
 ![](images/soldering_mistakes.webp)
 
@@ -95,6 +113,8 @@ Then, you position the chip (making sure it's correctly oriented), and press the
 When the heat transfers from the pin to the solder, the pin will be soldered, not very securely, but enough to keep the chip in place.
 
 ![](images/smd_vs_th.webp)
+
+### Recap and extra details
 
 If you don't have any flux for soldering, the one already inside the solder wire will be enough.
 
