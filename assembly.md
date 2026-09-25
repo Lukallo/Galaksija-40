@@ -39,15 +39,17 @@ For soldering the Galaksija, a wire around 0.5mm thick will be fine.
 
 The most important detail, in all of the tools, is the quality of the soldering iron's tip.
 It's impossible to do a good job with a greasy and corroded tip, even if you've bought the best, most expensive tools.
-Luckily, all manufacturers of soldering irons also sell spare tips, which should be changed frequently.
-It's good to know that when heating a new soldering iron and tip, the tip should be "tinned" as soon as possible, ideally as soon as the iron is hot enough to melt solder.
-If you miss this step, the tip will oxidise very quickly, but just one drop of solder applied at the right moment, can save the tip.
+Luckily, all manufacturers of soldering irons also sell spare tips, which should be changed regularly.
+It's good to know that when first heating a new soldering iron and tip, the tip should be "tinned" as soon as possible, ideally as soon as the iron is hot enough to melt solder.
+If you miss this step, the tip will oxidise very quickly, but just one drop of solder applied at the right moment can save the tip.
 
 ### Flux
 
-Alongside quality solder wire, a bit of flux, a substance which cleans solder pads, ... and equalises the surface tension of the melted solder.
+Alongside good-quality solder wire, a little flux will also be useful: a substance which cleans solder pads, removes metal oxides and evens out the surface tension of the melted solder.
 Here (in Serbia), it's sold under the name "solder paste" or "paste for soldering".
-Avoid old fluxes in big tubes, they are only useful for soldering gutters.
+> **Translator's note:** In English, this is sold as "flux" or "flux paste"
+
+Avoid old-style fluxes in big tubes, they are only good for soldering gutters.
 
 In the past, a natural resin called rosin was used just as successfully, but synthetic flux is far more versatile.
 It's true that every solder wire already contains a certain amount of flux, which you can easily see in the core of the wire, but for some jobs, especially soldering SMD (surface-mount device) components, extra flux is needed.
@@ -175,7 +177,7 @@ So, if everything is fine, the message will show on the screen after turning on.
 
 ![](images/ready.webp)
 
-### Keyboard
+## Keyboard
 
 A mechanical keyboard with standard dimensions proved itself to be a good choice for the original Galaksija computer, so there wasn't a reason to change that practice now.
 In the meanwhile, Cherry created a good standard for mechanical keyboard switches, so it was easy to settle on the hole and pad positions for the PCB.
@@ -188,6 +190,6 @@ Actually, those are only the colours of the central stems, which can't be seen a
 For example, red and brown are the softest (45g) and the most quiet (the first is completely silent), while white and clear are the hardest (80g) and noisiest.
 Blue and green are popular with gamers, as they have a moderate weight and a hard "click", while black are the same weight, but without a click, so they're good for professionals in offices with many people.
 
-### Mask for the keyboard
-### Case
-### Power
+## Mask for the keyboard
+## Case
+## Power
