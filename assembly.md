@@ -10,8 +10,8 @@ Nevertheless, some mistakes made when soldering are hard to fix, so if you don't
 before you move on to a project which is important.
 But ideally, you would have someone who has experience present, who will intervene only when needed.
 
-To start, you will need a desk, as large as possible, because sooner or later, you will see that you need more working space.
-Lighting must be perfect, ... with a lamp which can be moved in all directions.
+To start, you will need a desk, preferably as large as possible, because sooner or later, you will see that you need more working space.
+Lighting must be perfect, and a lamp which can be moved in all directions is a must, so that its position can be adjusted as needed.
 An extension lead with a few sockets is also necessary, as you will soon find out that you're missing just one socket, and then another...
 
 ![](images/soldering_iron.webp)
@@ -19,14 +19,14 @@ An extension lead with a few sockets is also necessary, as you will soon find ou
 The soldering iron, is of course the most important tool.
 While not necessary, it can be handy to have a soldering iron, with a separate station for controlling the temperature.
 A holder which will hold your soldering iron securely while you're not using it, is also necessary.
-You can improvise a holder with solder wire, or even a piece of wood with two crossed nails in it.
+You can improvise a holder with a piece of sheet metal, or even a piece of wood with two crossed nails in it.
 Any solution will be better than a soldering iron sitting at the edge of your table, waiting to hurt or damage everything which touches it, or on which it falls.
 
 Soldering wire is the next important item.
 You can choose whether you want to use lead free solder, or regular solder with lead.
 However, you should know that lead free solder is much harder to work with, as it requires a much higher temperature to melt.
 It's easier to use regular solder with lead, and you can easily avoid it's harmful effects by ensuring your workspace is well ventilated, or even using a fan.
-Special extractors for fumes exist, but it's easy to improvise a small fan,
+Special extractors for fumes exist, but it's easy to improvise a small fan, for example from a computer power supply.
 
 When buying soldering wire, pay attention to it's thickness.
 For soldering the Galaksija, a wire around 0.5mm thick will be fine.
@@ -49,7 +49,7 @@ This simple tool is a standard part of every professional's toolbox, as it's han
 ![](images/tools.webp)
 
 If you can overcome the desire to work quickly,
-at each soldered joint, wait at least one extra second, where you don't move anything, just hold the iron on the joint you're soldering
+at each soldered joint, wait at least one extra second, where you don't move anything, just hold the iron on the joint you're soldering.
 Don't worry about damaging the components by holding the iron a bit extra, electronic components are much more resistant to heat than you might think.
 The Galaksija has exactly 700 solder joints, so holding your iron extra will cost you a bit more than 10 minutes, however it will vastly improve the quality.
 
@@ -75,7 +75,6 @@ The most common mistakes made when soldering, are the following:
   </li>
   <li>There's no mistake here. The connection is soldered correctly.</li>
 </ol>
-</ol>
 
 ![](images/joints.webp)
 
@@ -97,7 +96,7 @@ When the heat transfers from the pin to the solder, the pin will be soldered, no
 If you don't have any flux for soldering, the one already inside the solder wire will be enough.
 
 A few things here are very important, so we'll repeat them.
-The soldering will be successful, if your solder wire is not thick.
+The soldering will be more successful, if your solder wire is not thick.
 For soldering all of the components on Galaksija, it would be best to have two types of solder wire, around 0.4mm and around 0.6mm, but one wire of 0.5mm will be a good alternative.
 However, the most important detail is the quality of the soldering iron's tip.
 All modern soldering irons have swap-able tips, so it might be worthwhile to buy at least one new tip.
@@ -111,21 +110,21 @@ There also exists an alternative method for soldering SMD components, using a sp
 
 You might think that the order in which you solder the components doesn't matter, but you can save yourself a lot of trouble, if you organize your work properly.
 The visibility of each stage of work will be best, if you at first solder the components which are lowest: 
-the resistors and the diodes (D1-D4, leave D5 till later as it's bigger).
+the resistors and the diodes (at least D1-D4, leave D5 till later as it's bigger).
 When you flip the board so as to solder the components, it'll be clear why you didn't rush to place the larger components as well: the resistors and diodes, which are the smallest and lowest components, won't fall out, but they'll be pressed against the table.
 
 When you cut the excess wires after soldering, you'll see that everything is in it's place, and that none of the resistors are "hanging" by their wires.
 
 ![](images/resistors_done.webp)
 
-Now you can solder the integrated circuits and IC sockets, which are currently empty, then the capacitors with 5mm width, which are a bit taller, and finally the connectors and vertical button (for a hard-break).
-Now would also be a good time to program and place the EPROMs in their sockets.
+Now you can solder the integrated circuits and IC sockets, which are currently empty, then the capacitors with 5mm lead pitch, which are a bit taller, and finally the connectors and vertical button (for a hard-break).
+Now would also be a good time to place the programmed EPROMs in their sockets.
 
 ![](images/sockets_done.webp)
 
 ![](images/eeproms_done.webp)
 
-## Connecting and Basic Configuration
+## Connecting and Getting Started
 
 It's simple to launch the Galaksija. Before all else, you need a monitor. Any modern TFT monitor or television will suit, which will be connected easily if it has a composite video input, which you can recognise by the RCA connector, like the one shown below:
 
@@ -138,7 +137,7 @@ You will also need an RCA cable to carry the video from the Galaksija to the ada
 
 ![](images/adapter.webp)
 
-While the Galaksija will work with any modern monitor, it's 32 symbols in a row and big letters, look a bit unusual on a screen 32" and bigger.
+While the Galaksija will work with any modern monitor, it's 32 symbols per line and capital letters look a bit unusual on a screen 32" and bigger.
 That's why if you can choose, buy a monitor 8, 9 or 10" in size, with a screen ratio of 4:3 as opposed to the usual ratio of 16:9.
 Such monitors are usually sold for CCTV monitoring.
 
@@ -162,7 +161,7 @@ In the meanwhile, Cherry created a good standard for mechanical keyboard switche
 
 56 switches are needed for the Galaksija, but you should buy at least 60, and keep the extras as spares.
 The actual switches (this does not apply to the keycaps) come in 8 different colours.
-Actually, those are only the colours of the central ..., which can't be seen after you put the keycaps on, but they serve the purpose of differentiating between different switch weights.
+Actually, those are only the colours of the central stems, which can't be seen after you put the keycaps on, but they serve the purpose of differentiating between different switch weights.
 For example, red and brown are the softest (45g) and the most quiet (the first is completely silent), while white and clear are the hardest (80g) and noisiest.
 Blue and green are popular with gamers, as they have a moderate weight and a hard "click", while black are the same weight, but without a click, so they're good for professionals in offices with many people.
 
