@@ -33,6 +33,9 @@ For soldering the Galaksija, a wire around 0.5mm thick will be fine.
 
 The most important detail, in all of the tools, is the quality of the soldering iron's tip.
 It's impossible to do a good job with a greasy and corroded tip, even if you've bought the best, most expensive tools.
+Luckily, all manufacturers of soldering irons also sell spare tips, which should be changed frequently.
+It's good to know that when heating a new soldering iron and tip, the tip should be "tinned" as soon as possible, ideally as soon as the iron is hot enough to melt solder.
+If you miss this step, the tip will oxidise very quickly, but just one drop of solder applied at the right moment, can save the tip.
 
 In the past, a natural resin called rosin was used just as successfully, but synthetic flux is far more versatile.
 It's true that every solder wire already contains a certain amount of flux, which you can easily see in the core of the wire, but for some jobs, especially soldering SMD (surface-mount device) components, extra flux is needed.
