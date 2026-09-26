@@ -102,7 +102,7 @@ The most common mistakes made when soldering, are the following:
   <li>There's no mistake here. The connection is soldered correctly.</li>
 </ol>
 
-![](images/joints.webp)
+<img src="images/joints.webp" style="width:60%; height:auto; margin:auto;">
 
 ### Soldering SMD Components
 
@@ -110,7 +110,7 @@ If you don't have much experience with soldering, the most challenging part will
 But don't worry! 
 It's good if you already have experience, but patience and paying careful attention will help much more.
 
-![](images/smd.webp)
+<img src="images/smd.webp" style="width:60%; height:auto; margin:auto;">
 
 It's not hard to solder the SMD chip, especially if you have a soldering iron with a fine and clean tip.
 First of all, a thin layer of solder needs to be applied to two diagonally opposite pads on the PCB for chip U19.
