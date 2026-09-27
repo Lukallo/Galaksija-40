@@ -204,5 +204,27 @@ Many stamp makers also work with these machines.
 You just need to bring them the file for cutting, which was made in the program CorelDraw.
 This file, with the name: KBD_MASK.CDR, can be found in the section for downloading programs.
 
+It the mask is thinner than 1.5mm, every switch can be put in its place, as there are teeth which click into place in the mask.
+However, you should not do this before soldering the switches, as it will be hard to place all the switches at once, in the 108 holes on the PCB.
+Instead, it's easier to solder 4 switches to start, one in each corner, and to then place and solder the others one by one.
+
+<img src="images/keyboard_mask.webp" style="width:60%; height:auto; margin:auto;">
+
+If the mask is thicker than 1.5mm, then it's even easier, as there is no reason to
+Instead of that, the mask just needs to be placed onto the PCB, and then you place the switches one by one and solder them.
+The mask will always remain in place on the PCB.
+This is shown in the picture above.
+
+The drawing for cutting the keyboard mask has holders for 3 switches for the space key.
+Depending on which option you have chosen, you will need one or two, you can leave the third one, or cut it off if it annoys you.
+For this, it's best to use a small circular cutting tool (they're best known in Serbia as a Dremel) or a regular hand saw.
+If you want just one switch to remain for the space bar, cut the yellow area on the drawing, or for two cut the red area.
+You need to cut the blue areas, if for the Enter key you will use a keycap which spreads across two switches.
+
+### The problem of the Space Bar's stability
+
+One of the problems will be brought by the switch for the SPACE bar.
+The keycap for it is 118mm wide, so it's necessary to have a mechanism for stabilizing it, so that the space bar can only be moved up and down, without any rotation across any other axes.
+
 ## Case
 ## Power
