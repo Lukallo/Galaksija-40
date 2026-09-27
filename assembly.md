@@ -194,5 +194,15 @@ For example, red and brown are the softest (45g) and the most quiet (the first i
 Blue and green are popular with gamers, as they have a moderate weight and a hard "click", while black are the same weight, but without a click, so they're good for professionals in offices with many people.
 
 ## Mask for the keyboard
+
+It depends on you, whether you will precisely position each key switch using the keyboard mask.
+Everything will be alright, even if you do not use it, you just have to be careful when soldering switches, so that they're parallel.
+If you do use the mask, it's easiest to cut it from a sheet of plexiglass, which is also sold as acrylic or perspex.
+A thickness between 1.5 and 3mm is recommended, but every other thickness will also be fine.
+These sheets are cut easiest on a laser cutter, which many workshops in larger cities have.
+Many stamp makers also work with these machines.
+You just need to bring them the file for cutting, which was made in the program CorelDraw.
+This file, with the name: KBD_MASK.CDR, can be found in the section for downloading programs.
+
 ## Case
 ## Power
