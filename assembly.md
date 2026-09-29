@@ -221,10 +221,73 @@ For this, it's best to use a small circular cutting tool (they're best known in 
 If you want just one switch to remain for the space bar, cut the yellow area on the drawing, or for two cut the red area.
 You need to cut the blue areas, if for the Enter key you will use a keycap which spreads across two switches.
 
+<img src="images/mask_cutout.webp" style="width:60%; height:auto; margin:auto;">
+
 ### The problem of the Space Bar's stability
 
 One of the problems will be brought by the switch for the SPACE bar.
 The keycap for it is 118mm wide, so it's necessary to have a mechanism for stabilizing it, so that the space bar can only be moved up and down, without any rotation across any other axes.
 
+Some companies manufacture and offer suitable stabilisers, but the questi
+Search "Space bar stabilizer" on google, and you'll see which solutions exist.
+
+Here, we'll describe 3 ways that this problem can be solved, sorted by complexity, and the quality of the solution.
+
+1) Use a smaller keycap for the Space bar.
+    That way it wont bend and get stuck.
+    When you buy a keycap set, you'll get a large selection of different dimensions, so it won't be too hard to choose.
+
+2) Solder two switches onto the PCB, where the space for this solution was planned.
+    The middle switch in this case should not be soldered.
+    This way, you'll get a usable Space bar, but the solution is far from ideal.
+
+3) A solution with a mechanism is the best, so it might be worth it to make the     effort.
+    First of all you have to dissasemble two key switches, so that you can remove the central stems, which are needed here (shown on the drawing in brown).
+    Then you need to drill two holes of around 1mm in diameter, or a bit wider.
+    The drawing shows where the holes need to be positioned.
+    These 
+
+Now you have to drill two similar holes on two "IN-IN" distancers M3*8, which are colored gray on the photo.
+Be precise!
+
+The wire (blue on the image) has to be steel, 1mm in diameter or a bit thicker.
+Such wire is difficult to find for sale, but you can find it at a metal workshop, welder or some freelancer who manufacturers metal.
+
+
+Some small corrections of the angle 
+
 ## Case
+
+10 years ago, the publishing company Springer published a book Hacking Europe - From Computer Cultures to Demoscenes (ISBN 978-1-4471-5492-1).
+Bruno Jakić, in an extensive article titled: "" says that 
+In the hands of the creative, young people who were building them, many computers were equipped with some fairly creative and artistic housings, which is a characteristic which won't be repeated in the industry even decades later.
+
+
+Now, 4 decades have passed, and we're faced with the same problem
+
+<img src="images/base_plate.webp" style="width:60%; height:auto; margin:auto;">
+
+Today, many people have access to 3D printers, if they don't already own one.
+Why not try? or, if you're skilled at making cases from plexiglass, you can 
+
+
 ## Power
+
+The Galaksija is powered by
+The power consumption is around 150mA (or a bit more if you don't use a CMOS, but a NMOS processor)
+It's best to get a USB cable, and cut it so that the "big" USB-A conector remains.
+
+For connecting the power, a 2.1mm barrel connector with a positive middle is used, the most standard type, which can be easily found in whichever shop that sells electronic components.
+
+The D5 diode can be any
+It's only purpose is to create a short circuit, and to save the other components, if you accidentaly connect the Galaksija with reversed polarity.
+
+This 
+But, if you are sure that you won't make a mistake with the charging polarity, you can leave this diode out.
+
+The Diodes are polarised, so you have to be careful of their orientation before soldering.
+The printed ring always marks the cathode, so with a little bit of care, you won't make any mistakes, 
+This applies not only for the big D5, but for all the other diodes aswell.
+
+For the diodes D1-D4, the BOM says that they're Schottky diodes, also known as a Hot Carrier diode.
+That means 
