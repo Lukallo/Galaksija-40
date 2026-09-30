@@ -70,6 +70,12 @@ This simple tool is a standard part of every professional's toolbox, as it's han
 
 ![](images/tools.webp)
 
+It's nice to have good tools, but the best helper for soldering is patience.
+Every experienced electrician will recognise a hastily soldered board.
+
+Generally, the rule is that the tip of the soldering iron, solder wire, solder hole and component lead meet at one point, as close as possible.
+
+
 ### Soldering technique
 
 If you can overcome the desire to work quickly,
@@ -91,9 +97,9 @@ The most common mistakes made when soldering, are the following:
   <li>Third item</li>
   <li>
       Too much solder. You'll need a bit of experience to be able to gauge how much solder to use for each joint.
-      This type of joint is not by itself bad, at least if it hasn't made a short circuit, but it's ugly, and every 
+      This type of joint is not by itself bad, at least if it hasn't made a short circuit, but it's ugly, and every professional will know at first sight, that whoever soldered it is a beginner.
   </li>
-  <li>5</li>
+  <li>The solder pad on the PCB is destroyed with a </li>
   <li>A short circuit between two adjacent connections. This is a common mistake, so after soldering you should carefully inspect your board.</li>
   <li>
       A missed spot during soldering. 
@@ -117,11 +123,15 @@ First of all, a thin layer of solder needs to be applied to two diagonally oppos
 Then, you position the chip (making sure it's correctly oriented), and press the soldering iron on the pins where solder is already on the pad.
 When the heat transfers from the pin to the solder, the pin will be soldered, not very securely, but enough to keep the chip in place.
 
-![](images/smd_vs_th.webp)
+When you're sure that the chip's position is good
+
+<img src="images/smd_vs_th.webp" style="width:100%; height:auto; margin:auto;">
 
 ### Recap and extra details
 
 If you don't have any flux for soldering, the one already inside the solder wire will be enough.
+You need to be skilled, so that the flux from the centre of the solder wire spreads precisely over the solder hole.
+
 
 A few things here are very important, so we'll repeat them.
 The soldering will be more successful, if your solder wire is not thick.
@@ -265,10 +275,14 @@ In the hands of the creative, young people who were building them, many computer
 
 Now, 4 decades have passed, and we're faced with the same problem
 
+Whether someone wants to make a case or not, the decision is theirs.
+The opinion of the whole team which tested the computer, is that the case is not necessary especially if you have a good plexiglass base, screwed to the PCB with M3 bolts and distancers around 3-5mm.
+
+
 <img src="images/base_plate.webp" style="width:60%; height:auto; margin:auto;">
 
 Today, many people have access to 3D printers, if they don't already own one.
-Why not try? or, if you're skilled at making cases from plexiglass, you can 
+Why not try? or, if you're skilled at making cases from plexiglass, you can try hand at this challenge as well
 
 
 ## Power
@@ -286,8 +300,10 @@ This
 But, if you are sure that you won't make a mistake with the charging polarity, you can leave this diode out.
 
 The Diodes are polarised, so you have to be careful of their orientation before soldering.
-The printed ring always marks the cathode, so with a little bit of care, you won't make any mistakes, 
+The printed ring always marks the cathode, so with a little bit of care, you won't make any mistakes, paired with the fact that the ring is also marked on the PCB.
 This applies not only for the big D5, but for all the other diodes aswell.
 
 For the diodes D1-D4, the BOM says that they're Schottky diodes, also known as a Hot Carrier diode.
-That means 
+That is a special manufacturing technology, which gives a much lower loss in power in the allowed direction.
+The recommendation is therefore, the the diodes D1-D3 are of the Schottky type.
+For the diodes D4 and D5, it doesn't matter if they're Schottky or ordinary silicon ones.
